@@ -1569,10 +1569,10 @@ pre code {
 }
 .footer-inner {
   box-sizing: border-box;
-  text-align: left;
+  text-align: center;
   display: flex;
-  flex-direction: row;
-  justify-content: space-evenly;
+  flex-direction: column;
+  justify-content: center;
   margin: 0 auto;
   width: 700px;
 }
@@ -2763,7 +2763,7 @@ header.header {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #7f34f0;
+  background: #ff2174;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
