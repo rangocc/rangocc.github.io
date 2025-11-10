@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: ixwen'blog
+title: ixoo1st
 subtitle: ''
 description: ''
 keywords:
@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://ixwen.com
+url: https://920704.xyz/
 permalink: posts/:abbrlink.html
 abbrlink:
   alg: crc16 
